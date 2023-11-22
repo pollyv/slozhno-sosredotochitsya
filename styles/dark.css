@@ -1,0 +1,14 @@
+.page.theme_dark {
+  --bg-color: #000028;
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
+  --decoration-color: #ff0070;
+  --hover-color: rgba(255 0 112 / 0.4);
+  --title-decor-color: #000028;
+  --title-color: #db00ff;
+  --bg-image: url(../images/cover-image-dark.png);
+}
+
+.page.theme_dark .header__decoration {
+  display: block;
+}
