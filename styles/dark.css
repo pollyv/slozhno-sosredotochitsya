@@ -1,0 +1,18 @@
+.page.theme_dark {
+  --bg-color: #000028;
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
+  --decoration-color: #ff0070;
+  --hover-color: #f1b2ce;
+  --title-decor-color: #000028;
+  --title-color: #db00ff;
+  --hover-link-color: #f1b2ce;
+  --hover-button-color: rgba(255, 0, 112, 0.4);
+  --focus-link-color: #f1b2ce;
+  --focus-button-color: #ff0070;
+  --bg-image: url(../images/cover-image-dark.png);
+}
+
+.page.theme_dark .header__decoration {
+  display: block;
+}
